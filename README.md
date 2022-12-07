@@ -14,7 +14,7 @@ It creates a virtual phantom(256x256) and is then able to slice the image either
 3) It will then create PNG images to display the ***sliced images***
 4) Finally it will display the ***image after the cuts have been put back together***
 
-***Sample images can be found for, "10 diagonal cuts," "6 horizontal cuts," and "6 vertical cuts"***
+***Sample images can be found for, "10 diagonal cuts," "6 horizontal cuts," and "6 vertical cuts" in the "output" folder***
 
 #### This project was created by:
   - ***Brayan Sosa***
