@@ -89,16 +89,14 @@ if 5 < imgSize:
     phantom = np.multiply(phantom, 256)  # do this so that we can work with numpy
     cv2.imwrite("phantom.png", phantom)
     plt.title('Virtual Phantom')
-    display(
-        phantom)  # this line and the line before give a title and display the image that we are currently working with
+    display(phantom)  # this line and the line before give a title and display the image that we are currently working with
     #######################################################################################################################
 
     print("please input the type of cut: ")
     type = str(input())  # should be either "horizontal", "vertical", or "diagonal"
 
     print("Please enter the number of image cuts you would like to see: ")
-    print(
-        "Example: 1 you will get the same image, if 2 you will get the image halved, if 3 you get three images, and so on...")
+    print("Example: 1 you will get the same image, if 2 you will get the image halved, if 3 you get three images, and so on...")
     slicedImageAmount = int(input())
     # sliced image should be the number of sliced images that the user would like to see
     # should not be bigger than the shape of the image which is 256 by 256
