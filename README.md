@@ -18,6 +18,8 @@ It creates a virtual phantom(256x256) and is then able to slice the image either
 
 ***Please close all of the pop-up windows once you are done viewing them so that the code can continue/stop running***
 
+***The entire code can be found in the "main.py" file***
+
 #### This project was created by:
   - ***Brayan Sosa***
   - ***Hatem Saleh***
