@@ -89,3 +89,5 @@ if 5 < imgSize:
         print("Error: Invalid cut amount too many/little cuts")
 else:
     print("Error: Invalid image size")
+    
+#This can be considered the "main" function which puts all the images together and calls the helper functions "imageCut()" and "display()" which can be found in this folder. 
