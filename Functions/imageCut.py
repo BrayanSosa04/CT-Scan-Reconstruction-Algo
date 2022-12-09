@@ -51,3 +51,5 @@ def imageCut(img, cutType, slicedImageAmount, count):
                     if ((img.shape[0]+img.shape[1])*((count+1)/slicedImageAmount)) >= (i+j) >= ((img.shape[0]+img.shape[1])*((count)/slicedImageAmount)):
                         result[i, j] = img[i, j] #this section gets us the rest of the diagonal slices
         return result
+ 
+#This is the image cut function that is used to perform all of the different slices. It can be considered the helper function of the "main" file in this folder.
