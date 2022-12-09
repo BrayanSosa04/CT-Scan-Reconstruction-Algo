@@ -16,6 +16,8 @@ It creates a virtual phantom(256x256) and is then able to slice the image either
 
 ***Sample images can be found for, "10 diagonal cuts," "6 horizontal cuts," and "6 vertical cuts" in the "output" folder***
 
+***Please close all of the pop-up windows once you are done viewing them so that the code can continue/stop running***
+
 #### This project was created by:
   - ***Brayan Sosa***
   - ***Hatem Saleh***
