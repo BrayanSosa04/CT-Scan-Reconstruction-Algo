@@ -7,3 +7,4 @@ def display(img): #this is a function to display images, it takes in the matrix(
     plt.imshow(img, cmap='gray')
     plt.show() #creates the little pop-up window
     
+#This is the display function used in our project to help us display images. It can be considered a helper function for the "main" file in this folder
