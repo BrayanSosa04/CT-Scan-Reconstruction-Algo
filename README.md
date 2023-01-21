@@ -21,9 +21,10 @@ It creates a virtual phantom(256x256) and is then able to slice the image either
 algorithm is ran again with a sliced image amount of 3, then the first 3 PNG files will be overrided and the following 3 will be left alone from the past iteration***
 
 ***The entire code can be found in the "main.py" file***
+***The "Final Report" contains all the findings made by us***
 
 #### This project was created by:
-  - ***Brayan Sosa***
-  - ***Hatem Saleh***
-  - ***Fiza Gubitra***
-  - ***Fatima Mirza***
+  - ***Brayan Sosa(write the code and report)***
+  - ***Hatem Saleh(assisted with code)***
+  - ***Fiza Gubitra(editing report)***
+  - ***Fatima Mirza(editing report)***
