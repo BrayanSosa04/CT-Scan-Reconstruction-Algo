@@ -27,5 +27,5 @@ algorithm is ran again with a sliced image amount of 3, then the first 3 PNG fil
 #### This project was created by:
   - ***Brayan Sosa(write the code and report)***
   - ***Hatem Saleh(assisted with code)***
-  - ***Fiza Gubitra(editing report)***
+  - ***Fiza Gubitra(assisted with editing report)***
   - ***Fatima Mirza(editing report)***
